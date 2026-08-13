@@ -1,2 +1,5 @@
-# Home-Lab-Hack
-Simple Home lab Server Rack
+# Server Rack
+## DIY
+## Modular
+## Expandable
+## AND MORE
